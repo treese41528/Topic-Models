@@ -1,5 +1,5 @@
 # Topic-Models
-<H2>OPapers</H2>
+<H2>Papers</H2>
 <table style="width:100%">
   <tr>
     <th>Paper</th>
