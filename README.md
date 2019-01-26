@@ -26,6 +26,12 @@
   </tr>
   
    <tr>
+    <td>Literature Survey Topic Models 2</td>
+    <td><a href = "http://article.sciencepublishinggroup.com/pdf/10.11648.j.ajmcm.20170203.12.pdf"> Survey</a></td>
+  </tr>
+  
+  
+   <tr>
     <td>Probabilistic Topic Models</td>
     <td><a href = "http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf"> Review</a></td>
   </tr>
