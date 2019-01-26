@@ -4,12 +4,15 @@
   <tr>
     <th>Paper</th>
     <th>Link</th>
-    <th>Summary</th>
   </tr>
 
    <tr>
     <td>Latent Dirchlet Allocation</td>
     <td><a href = "http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf"> LDA </a></td>
-  <td></td>
   </tr>
+     <tr>
+    <td>Dynamic Topic Models</td>
+    <td><a href = "https://mimno.infosci.cornell.edu/info6150/readings/dynamic_topic_models.pdf"> Dynamic Topic Models</a></td>
+  </tr>
+  
 </table>
