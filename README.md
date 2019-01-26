@@ -9,7 +9,7 @@
 
    <tr>
     <td>Latent Dirchlet Allocation</td>
-    <td></td>
+    <td><a href = "http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf"> LDA </a></td>
   <td></td>
   </tr>
 </table>
